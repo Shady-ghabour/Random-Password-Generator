@@ -20,3 +20,4 @@ responsive design with a background image.
 - main.js: The JavaScript file that handles the password generation logic and clipboard copying functionality.
 
 - # Link
+https://shady-ghabour.github.io/Random-Password-Generator/ 
